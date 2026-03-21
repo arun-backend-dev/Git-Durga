@@ -53,6 +53,23 @@ commit message========>mandatory
 git commit -m "a.txt added"
 
 
+##4)Modified
+-------------------
+
+Any file which is already tracked by git,but it is modified in working dir is said to be in modified state.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
