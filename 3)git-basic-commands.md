@@ -97,7 +97,8 @@ it shows to see history of all commits in local repo====>git log
 ----------------------------
 -It searches only commit messages, not file content
 -It is case-sensitive by default
-##git log --grep="features", git log --grep="features" --oneline
+
+##git log --grep="features", git log --grep="features" --oneline"
 ------------------------------
 -👉 It shows only those commits whose commit message contains the given text
 
