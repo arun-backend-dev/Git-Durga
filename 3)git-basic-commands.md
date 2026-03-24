@@ -76,9 +76,9 @@ It helps you see what Git is currently managing
 ------------------
 -it shows to see history of all commits in local repo====>git log
 
-##git log <file name>
+##git log filename.txt
 ---------------------------
--it shows all commits related to specified file name
+-it shows all commits related to filename.txt file only
 
 ##git --oneline
 --------------------------------
