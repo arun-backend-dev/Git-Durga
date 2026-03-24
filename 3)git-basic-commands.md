@@ -74,7 +74,8 @@ It helps you see what Git is currently managing
 
 8)git log
 ------------------
-it shows to see history of all commits in local repo====>git log
+-it shows to see history of all commits in local repo====>git log
+
 ##git log <file name>
 ---------------------------
 -it shows all commits related to specified file name
